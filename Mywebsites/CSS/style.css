@@ -1,0 +1,42 @@
+body
+ {
+    background-color: aqua;
+ }
+
+
+ a:link
+
+    {
+
+        color:bisque
+        background-color:aquamarine
+        text-decoration:none;
+        padding: 15px;
+        display:inline-block;
+        
+    }
+
+    a:visited
+    {
+        color:grey
+        background-color:whitesmoke
+        text-decoration:none;
+
+    }
+
+
+    a:hover
+
+    {
+        color:seagreen
+        background-color: thistle
+        text-background:underline;
+    }
+
+    a:active 
+
+    {
+        color:indigo;
+        background-color: ;
+
+    }
